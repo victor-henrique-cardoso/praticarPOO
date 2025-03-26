@@ -1,0 +1,14 @@
+C:\Users\victo\Documents\c#\poo\primeiraAuladePOO\bin\Debug\net9.0\primeiraAuladePOO.exe
+C:\Users\victo\Documents\c#\poo\primeiraAuladePOO\bin\Debug\net9.0\primeiraAuladePOO.deps.json
+C:\Users\victo\Documents\c#\poo\primeiraAuladePOO\bin\Debug\net9.0\primeiraAuladePOO.runtimeconfig.json
+C:\Users\victo\Documents\c#\poo\primeiraAuladePOO\bin\Debug\net9.0\primeiraAuladePOO.dll
+C:\Users\victo\Documents\c#\poo\primeiraAuladePOO\bin\Debug\net9.0\primeiraAuladePOO.pdb
+C:\Users\victo\Documents\c#\poo\primeiraAuladePOO\obj\Debug\net9.0\primeiraAuladePOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\c#\poo\primeiraAuladePOO\obj\Debug\net9.0\primeiraAuladePOO.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\c#\poo\primeiraAuladePOO\obj\Debug\net9.0\primeiraAuladePOO.AssemblyInfo.cs
+C:\Users\victo\Documents\c#\poo\primeiraAuladePOO\obj\Debug\net9.0\primeiraAuladePOO.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\c#\poo\primeiraAuladePOO\obj\Debug\net9.0\primeiraAuladePOO.dll
+C:\Users\victo\Documents\c#\poo\primeiraAuladePOO\obj\Debug\net9.0\refint\primeiraAuladePOO.dll
+C:\Users\victo\Documents\c#\poo\primeiraAuladePOO\obj\Debug\net9.0\primeiraAuladePOO.pdb
+C:\Users\victo\Documents\c#\poo\primeiraAuladePOO\obj\Debug\net9.0\primeiraAuladePOO.genruntimeconfig.cache
+C:\Users\victo\Documents\c#\poo\primeiraAuladePOO\obj\Debug\net9.0\ref\primeiraAuladePOO.dll
